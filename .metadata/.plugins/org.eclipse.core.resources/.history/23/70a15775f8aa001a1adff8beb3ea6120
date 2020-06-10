@@ -1,0 +1,16 @@
+package com.lam.controller;
+
+import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RequestBody;
+
+@Controller
+public class TrangChuController {
+	
+	@RequestMapping("/")
+	
+	public String TrangChu() {
+		return "Hello day la trang chu!";
+	}
+
+}

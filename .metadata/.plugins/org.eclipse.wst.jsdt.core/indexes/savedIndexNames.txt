@@ -1,0 +1,4 @@
+INDEX VERSION 1.4+C:\Users\lam pham\lamtu\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+272594980.index
+1101313930.index
+371327362.index
