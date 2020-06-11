@@ -28,7 +28,7 @@ public class ArrayListAccessElementExample {
 		System.out.println("Second best company : " + secondBestCompany);
 		System.out.println("Last company in list : " + lastCompany);
 		
-		topCompanies.set(4, "Walmart");
+		topCompanies.set(2, "Walmart");
 		System.out.println("Modified top companies list : " + topCompanies);
 	}
 

@@ -9,8 +9,9 @@ public class TestArrayListDemoclass {
 		ArrayListCreationExample elementCreation = new ArrayListCreationExample();
 		ArrayListAccessElementExample elementAccess = new ArrayListAccessElementExample();
 		ArrayListRemoveElementExample elementRemove = new ArrayListRemoveElementExample();
-		elementCreation.createArrayList();
-		elementAccess.acessElement();
+		//elementCreation.createArrayList();
+		//elementCreation.createArrayListFromCollection();
+		//elementAccess.acessElement();
 		elementRemove.removeElements();
 	}
 
